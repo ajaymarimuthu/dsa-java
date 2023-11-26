@@ -44,3 +44,10 @@ public class ReverseArray {
     }
     
 }
+
+
+// Time complexity 
+// No of itertions in while loop is N/2 
+// because we are running loop since i<j or i==j  half of loop 
+// so t.c = 0n/2 
+// tc = o(n)
