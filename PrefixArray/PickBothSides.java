@@ -3,15 +3,15 @@ public class PickBothSides {
     // Approach PrefixArray
 
     // i Left Right
-    // i 0 elements B B-i elemtns
-    // i 1 elements B-1 B-i elemtns
-    // i 2 elements B-2 B-i elemtns
+    // i 0 elements B         B-i elemtns
+    // i 1 elements B-1       B-i elemtns
+    // i 2 elements B-2       B-i elemtns
+    // i . . 
     // i . .
     // i . .
-    // i . .
-    // i B-2 elements 2 B-i elemtns
-    // i B-1 elements 1 B-i elemtns
-    // i B elements 0 B-i elemtns
+    // i B-2 elements 2       B-i elemtns
+    // i B-1 elements 1       B-i elemtns
+    // i B elements 0         B-i elemtns
 
     public static void main(String[] args) {
 
